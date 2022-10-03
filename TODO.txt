@@ -1,0 +1,1 @@
+1) Не делать GodObject из Player. Перенести все в какой-нибудьд game controller. 
